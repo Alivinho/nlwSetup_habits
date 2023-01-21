@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](Alivinho.github.io/nlwSetup_habits)
+- [Visite o projeto online](https://Alivinho.github.io/nlwSetup_habits)
 
 ## 🔖 Layout
 
